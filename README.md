@@ -1,13 +1,13 @@
 ## ReqnrollBDDFramework
 
-Automated BDD UI testing framework using Reqnroll, Selenium WebDriver, and NUnit.
+Automated BDD UI testing framework using Reqnroll, Selenium WebDriver and NUnit.
 
-Features
-BDD support using [Binding] attributes
-NUnit test runner integration
-Selenium WebDriver for Chrome automation
-Sample login scenario
-Step execution messages in Console.WriteLine() (placeholder for extended logging)
+## Features
+*BDD support using [Binding] attributes
+*NUnit test runner integration
+*Selenium WebDriver for Chrome automation
+*Sample login scenario
+*Step execution messages in Console.WriteLine() (placeholder for extended logging)
 
 ## Folder Structure
 
