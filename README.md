@@ -2,23 +2,6 @@
 
 UI testing framework using Reqnroll, Selenium WebDriver and NUnit.
 
-
-## Folder Structure
-
-```
-
-ReqnrollBDDFramework/
-│
-├─ bin/                        # Compiled binaries
-├─ features/                   # Gherkin feature files
-├─ StepDefinitions/            # Step definition files
-├─ Logs/                       # Console or log output
-└─ Reports/                    # Placeholder for future reports
-
-````
-
----
-
 ## Getting Started
 
 1. Clone the repository:
