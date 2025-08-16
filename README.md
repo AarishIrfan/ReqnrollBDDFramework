@@ -82,5 +82,4 @@ public void GivenINavigateToTheLoginPage()
     driver.Navigate().GoToUrl("https://practicetestautomation.com/practice-test-login/");
 }
 
-Do you want me to add that too?
 ```
